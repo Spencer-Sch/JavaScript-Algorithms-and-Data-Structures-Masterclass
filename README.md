@@ -3,3 +3,7 @@
 ### Section 1 - Introduction
 
 - Complete
+
+### Section 2 - Big O Notation
+
+- Complete
