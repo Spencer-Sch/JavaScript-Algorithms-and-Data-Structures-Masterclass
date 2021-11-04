@@ -7,3 +7,7 @@
 ### Section 2 - Big O Notation
 
 - Complete
+
+### Section 3 - Analyzing Performance of Arrays and Objects
+
+- Complete
