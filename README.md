@@ -11,3 +11,7 @@
 ### Section 3 - Analyzing Performance of Arrays and Objects
 
 - Complete
+
+### Section 4 - Problem Solving Approach
+
+- Lessons 1 and 2 complete
