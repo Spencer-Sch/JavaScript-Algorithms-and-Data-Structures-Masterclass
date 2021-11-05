@@ -15,3 +15,7 @@
 ### Section 4 - Problem Solving Approach
 
 - Complete
+
+### Section 5 - Problem Solving Patterns
+
+- Lessons 1 through 10 complete
