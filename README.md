@@ -18,4 +18,4 @@
 
 ### Section 5 - Problem Solving Patterns
 
-- Lessons 1 through 10 complete
+- Complete
