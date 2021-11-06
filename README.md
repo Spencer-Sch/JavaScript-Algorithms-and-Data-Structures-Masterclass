@@ -19,3 +19,7 @@
 ### Section 5 - Problem Solving Patterns
 
 - Complete
+
+### Section 6 - 100% OPTIONAL Challenges
+
+- Lessons 1 through 4 complete
