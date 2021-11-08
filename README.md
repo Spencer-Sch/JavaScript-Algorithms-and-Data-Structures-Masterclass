@@ -31,3 +31,7 @@
 ### Section 8 - Recursion Problem Set
 
 - Complete
+
+### Section 9 - Bonus CHALLENGING Recursion Problems
+
+- Skipped for now
