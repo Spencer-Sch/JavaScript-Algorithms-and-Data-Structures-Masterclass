@@ -23,3 +23,7 @@
 ### Section 6 - 100% OPTIONAL Challenges
 
 - Lessons 1 through 4 complete
+
+### Section 7 - Recursion
+
+- Complete
