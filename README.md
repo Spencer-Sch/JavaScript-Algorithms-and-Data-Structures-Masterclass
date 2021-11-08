@@ -35,3 +35,7 @@
 ### Section 9 - Bonus CHALLENGING Recursion Problems
 
 - Skipped for now
+
+### Section 10 - Searching Algorithms
+
+- Lessons 1 through 11 complete
