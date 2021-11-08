@@ -27,3 +27,7 @@
 ### Section 7 - Recursion
 
 - Complete
+
+### Section 8 - Recursion Problem Set
+
+- Complete
