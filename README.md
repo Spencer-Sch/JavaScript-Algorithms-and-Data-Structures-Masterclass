@@ -38,4 +38,4 @@
 
 ### Section 10 - Searching Algorithms
 
-- Lessons 1 through 11 complete
+- Complete
