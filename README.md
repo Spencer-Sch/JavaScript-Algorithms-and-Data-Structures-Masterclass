@@ -43,3 +43,7 @@
 ### Section 11 - Bubble Sort
 
 - Complete
+
+### Section 12 - Selection Sort
+
+- Complete
