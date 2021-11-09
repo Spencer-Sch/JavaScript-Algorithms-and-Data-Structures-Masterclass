@@ -39,3 +39,7 @@
 ### Section 10 - Searching Algorithms
 
 - Complete
+
+### Section 11 - Bubble Sort
+
+- Complete
