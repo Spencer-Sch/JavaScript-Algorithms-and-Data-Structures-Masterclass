@@ -55,3 +55,7 @@
 ### Section 14 - Comparing Bubble, Selection, and Insertion Sort
 
 - Complete
+
+### Section 15 - Merge Sort
+
+- Complete
