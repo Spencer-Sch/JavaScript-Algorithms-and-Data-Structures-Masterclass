@@ -51,3 +51,7 @@
 ### Section 13 - Insertion Sort
 
 - Complete
+
+### Section 14 - Comparing Bubble, Selection, and Insertion Sort
+
+- Complete
