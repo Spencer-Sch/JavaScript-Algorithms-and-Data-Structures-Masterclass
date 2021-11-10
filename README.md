@@ -47,3 +47,7 @@
 ### Section 12 - Selection Sort
 
 - Complete
+
+### Section 13 - Insertion Sort
+
+- Complete
