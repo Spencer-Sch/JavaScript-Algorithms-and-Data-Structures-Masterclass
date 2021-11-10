@@ -59,3 +59,7 @@
 ### Section 15 - Merge Sort
 
 - Complete
+
+### Section 16 - Quick Sort
+
+- Complete
