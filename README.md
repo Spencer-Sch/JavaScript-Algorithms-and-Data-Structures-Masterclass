@@ -71,3 +71,7 @@
 ### Section 18 - Data Structures Introduction
 
 - Complete
+
+### Section 19 - Singly Linked List
+
+- Lesson 1 through 16 complete
