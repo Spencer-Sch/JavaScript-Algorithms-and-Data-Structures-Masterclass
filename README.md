@@ -67,3 +67,7 @@
 ### Section 17 - Radix Sort
 
 - Complete
+
+### Section 18 - Data Structures Introduction
+
+- Complete
