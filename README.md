@@ -83,3 +83,7 @@
 ### Section 21 - Stacks & Queues
 
 - Complete
+
+### Section 22 - Binary Search Trees
+
+- Complete
