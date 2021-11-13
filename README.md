@@ -79,3 +79,7 @@
 ### Section 20 - Doubly Linked List
 
 - Complete
+
+### Section 21 - Stacks & Queues
+
+- Complete
