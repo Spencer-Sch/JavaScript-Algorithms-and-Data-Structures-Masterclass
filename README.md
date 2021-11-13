@@ -78,4 +78,4 @@
 
 ### Section 20 - Doubly Linked List
 
-- Lessons 1 through 9 complete
+- Complete
