@@ -91,3 +91,7 @@
 ### Section 23 - Tree Traversal
 
 - Complete
+
+### Section 24 - Binary Heaps
+
+- Lessons 1 through 8 complete
