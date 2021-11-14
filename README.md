@@ -87,3 +87,7 @@
 ### Section 22 - Binary Search Trees
 
 - Complete
+
+### Section 23 - Tree Traversal
+
+- Complete
