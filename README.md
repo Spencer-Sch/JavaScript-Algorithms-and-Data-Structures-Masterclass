@@ -95,3 +95,7 @@
 ### Section 24 - Binary Heaps
 
 - Complete
+
+### Section 25 - Hash Tables
+
+- Complete
