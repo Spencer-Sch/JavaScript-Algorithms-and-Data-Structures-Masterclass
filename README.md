@@ -94,4 +94,4 @@
 
 ### Section 24 - Binary Heaps
 
-- Lessons 1 through 8 complete
+- Complete
