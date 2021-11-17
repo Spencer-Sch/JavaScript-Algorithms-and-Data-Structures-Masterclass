@@ -103,3 +103,7 @@
 ### Section 26 - Graphs
 
 - Complete
+
+### Section 27 - Graph Traversal
+
+- Complete
