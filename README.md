@@ -107,3 +107,7 @@
 ### Section 27 - Graph Traversal
 
 - Complete
+
+### Section 28 - Dijkstra's Algorithm
+
+- Lessons 1 through 5 complete
