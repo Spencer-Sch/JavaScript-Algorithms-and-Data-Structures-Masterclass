@@ -1,119 +1,135 @@
-# Working through "JavaScript Algorithms and Data Structures Masterclass" by Colt Steele
+# JavaScript Algorithms and Data Structures Masterclass
 
-### Section 1 - Introduction
+#### by Colt Steele
 
-- Complete
+[Udemy Link](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
-### Section 2 - Big O Notation
+---
 
-- Complete
+## Description
 
-### Section 3 - Analyzing Performance of Arrays and Objects
+Tracking my progress through the course.
 
-- Complete
+---
 
-### Section 4 - Problem Solving Approach
+## Course Sections
 
-- Complete
+#### Section 1 - Introduction
 
-### Section 5 - Problem Solving Patterns
+✅ Complete
 
-- Complete
+#### Section 2 - Big O Notation
 
-### Section 6 - 100% OPTIONAL Challenges
+✅ Complete
 
-- Complete
+#### Section 3 - Analyzing Performance of Arrays and Objects
 
-### Section 7 - Recursion
+✅ Complete
 
-- Complete
+#### Section 4 - Problem Solving Approach
 
-### Section 8 - Recursion Problem Set
+✅ Complete
 
-- Complete
+#### Section 5 - Problem Solving Patterns
 
-### Section 9 - Bonus CHALLENGING Recursion Problems
+✅ Complete
 
-- Complete
+#### Section 6 - 100% OPTIONAL Challenges
 
-### Section 10 - Searching Algorithms
+✅ Complete
 
-- Complete
+#### Section 7 - Recursion
 
-### Section 11 - Bubble Sort
+✅ Complete
 
-- Complete
+#### Section 8 - Recursion Problem Set
 
-### Section 12 - Selection Sort
+✅ Complete
 
-- Complete
+#### Section 9 - Bonus CHALLENGING Recursion Problems
 
-### Section 13 - Insertion Sort
+✅ Complete
 
-- Complete
+#### Section 10 - Searching Algorithms
 
-### Section 14 - Comparing Bubble, Selection, and Insertion Sort
+✅ Complete
 
-- Complete
+#### Section 11 - Bubble Sort
 
-### Section 15 - Merge Sort
+✅ Complete
 
-- Complete
+#### Section 12 - Selection Sort
 
-### Section 16 - Quick Sort
+✅ Complete
 
-- Complete
+#### Section 13 - Insertion Sort
 
-### Section 17 - Radix Sort
+✅ Complete
 
-- Complete
+#### Section 14 - Comparing Bubble, Selection, and Insertion Sort
 
-### Section 18 - Data Structures Introduction
+✅ Complete
 
-- Complete
+#### Section 15 - Merge Sort
 
-### Section 19 - Singly Linked List
+✅ Complete
 
-- Complete
+#### Section 16 - Quick Sort
 
-### Section 20 - Doubly Linked List
+✅ Complete
 
-- Complete
+#### Section 17 - Radix Sort
 
-### Section 21 - Stacks & Queues
+✅ Complete
 
-- Complete
+#### Section 18 - Data Structures Introduction
 
-### Section 22 - Binary Search Trees
+✅ Complete
 
-- Complete
+#### Section 19 - Singly Linked List
 
-### Section 23 - Tree Traversal
+✅ Complete
 
-- Complete
+#### Section 20 - Doubly Linked List
 
-### Section 24 - Binary Heaps
+✅ Complete
 
-- Complete
+#### Section 21 - Stacks & Queues
 
-### Section 25 - Hash Tables
+✅ Complete
 
-- Complete
+#### Section 22 - Binary Search Trees
 
-### Section 26 - Graphs
+✅ Complete
 
-- Complete
+#### Section 23 - Tree Traversal
 
-### Section 27 - Graph Traversal
+✅ Complete
 
-- Complete
+#### Section 24 - Binary Heaps
 
-### Section 28 - Dijkstra's Algorithm
+✅ Complete
 
-- Complete
+#### Section 25 - Hash Tables
 
-### Section 29 - Dynamic Programming
+✅ Complete
 
-- Complete
+#### Section 26 - Graphs
+
+✅ Complete
+
+#### Section 27 - Graph Traversal
+
+✅ Complete
+
+#### Section 28 - Dijkstra's Algorithm
+
+✅ Complete
+
+#### Section 29 - Dynamic Programming
+
+✅ Complete
 
 ## Course complete!
+
+[Back To The Top](#javascript-algorithms-and-data-structures-masterclass)
